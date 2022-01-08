@@ -4,3 +4,5 @@
 
 ### How to contribute
 Contributions are welcome and encouraged😁. If you see something I've missed, please submit a pull request.
+
+### Style guide
