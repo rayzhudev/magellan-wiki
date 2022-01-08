@@ -1,3 +1,4 @@
+#programming #smart-contract
 Smart contracts on the Ethereum network are mainly created using the [[Solidity]] programming language.
 
 ### Resources

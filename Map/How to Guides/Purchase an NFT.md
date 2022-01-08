@@ -1,5 +1,5 @@
 ### Prerequisites
-- Own a wallet
+- [[Create a wallet]]
 - Purchase a sufficient amount of Ether via an #exchange 
 
 ### Where to buy an NFT
