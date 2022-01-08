@@ -7,7 +7,7 @@
  A good place to start off is [[Introduction to web3]]. This is a choose your own adventure book so really, you can start by searching whatever you're looking for.
 
 ### How to contribute
-This is a wiki so contributions are welcome and encouraged😁. If you see something I've missed, please submit a pull request at the [Magellan wiki Github repo]().
+This is a wiki so contributions are welcome and encouraged😁. If you see something I've missed, please submit a pull request at the [Magellan wiki Github repo](https://github.com/rayzhudev/magellan-wiki).
 
 ### Support this project
 Magellan wiki does not and will never run ads. If you have benefitted from this project, please consider financially supporting the work I am doing. 
