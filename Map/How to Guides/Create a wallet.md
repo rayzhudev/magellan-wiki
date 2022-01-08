@@ -1,1 +1,1 @@
-[[Wallets]]
+There are many available options for [[Wallets]]. Do your own research to find which one suits your needs.

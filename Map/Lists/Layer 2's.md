@@ -5,7 +5,6 @@
 - [[ZkSync]]
 - [[ImmutableX]]
 - [[Polygon]]
-- [[]]
 
 ##### Resources
 - [[L2Beat]]

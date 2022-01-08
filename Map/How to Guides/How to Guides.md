@@ -1,6 +1,5 @@
-# How to Guides Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
+- [[Create a wallet]]
+- [[Create smart contracts]]
+- [[Purchase an ENS domain]]
+- [[Purchase an NFT]]
+- [[Purchase cryptocurrency]]
