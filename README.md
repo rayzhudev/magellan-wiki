@@ -8,6 +8,7 @@
 
 ### How to contribute
 This is a wiki so contributions are welcome and encouraged😁. If you see something I've missed, please submit a pull request at the [Magellan wiki Github repo](https://github.com/rayzhudev/magellan-wiki).
+Join the discord server https://discord.gg/bkGQ4Hyp5U
 
 ### Support this project
 Magellan wiki does not and will never run ads. If you have benefitted from this project, please consider financially supporting the work I am doing. 
