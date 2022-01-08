@@ -4,4 +4,4 @@
 - [[How to purchase an ENS domain]]
 
 ### Explore
-[[Exchanges]]
+#exchange 
