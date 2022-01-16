@@ -1,0 +1,2 @@
+- Create Magellan wiki DAO
+- Continuous deployment of changes

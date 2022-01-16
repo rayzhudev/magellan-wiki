@@ -1,3 +1,5 @@
+- Aggregators
+	- [[L2Beat]]
 - Defi
 	- DEXes
 		- [[CowSwap]]
