@@ -14,7 +14,8 @@
 - Defi
 	- [[Take out a collateralized loan]]
 	- [[Trade options]]
-	- [[Liquidity provider]]
+	- [[Liquidity providing]]
+	- [[Yield farming]]
 	- [[Leveraged trades]]
 
 ### Learn technical information
