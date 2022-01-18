@@ -1,2 +1,5 @@
 - Create Magellan wiki DAO
+	- Release token/airdrop
 - Continuous deployment of changes
+- Refine style guide
+- Improved UI with HTML
