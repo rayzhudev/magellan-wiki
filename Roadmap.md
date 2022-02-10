@@ -3,3 +3,4 @@
 - Continuous deployment of changes
 - Refine style guide
 - Improved UI with HTML
+- Bounties for content guides
