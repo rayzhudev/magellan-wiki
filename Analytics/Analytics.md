@@ -1,2 +1,4 @@
 - [[Coingecko]]
 - [[Etherscan]]
+- [[L2Beat]]
+- [[L2Fees]]

@@ -7,6 +7,9 @@
 
 ### Explore
 [[Exchanges]]
+[[Wallets]]
+[[DEXes]]
+[[NFT Marketplaces]]
 
 ### Advanced activities
 - [[Start a DAO]]

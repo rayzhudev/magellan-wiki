@@ -5,6 +5,7 @@
 		- [[CowSwap]]
 		- [[Uniswap]]
 	- Portfolio Management
-		- [[]]
+		- [[Zapper]]
+- NFT
+	- [[Opensea]]
 - [[ENS]]
-- [[Opensea]]
