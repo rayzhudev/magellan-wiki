@@ -1,3 +1,3 @@
 #nft/marketplace #trading
 https://opensea.io/
-chain: Ethereum, [[Polygon]], [[Klaytn]]
+chain: Ethereum, [[Polygon (PoS Sidechain)]], [[Klaytn]]

@@ -4,7 +4,7 @@
 - [[Immutable X]]
 - [[Loopring]]
 - [[Optimism]]
-- [[Polygon]]
+- [[Polygon (PoS Sidechain)]]
 - [[Starknet]]
 - [[ZkSync]]
 

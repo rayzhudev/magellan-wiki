@@ -1,11 +1,17 @@
-- Aggregators
-	- [[L2Beat]]
 - Defi
 	- DEXes
 		- [[CowSwap]]
 		- [[Uniswap]]
 	- Portfolio Management
 		- [[Zapper]]
+- Misc
+	- [[Impersonator]]
 - NFT
-	- [[Opensea]]
+	- Marketplace
+		- [[LooksRare]]
+		- [[NiftyGateway]]
+		- [[Opensea]]
+		- [[Rarible]]
+		- [[SuperRare]]
+		- [[X2Y2]]
 - [[ENS]]

@@ -11,4 +11,4 @@ Referral Link: [https://crypto.com/app/dq7dxenpgy](https://crypto.com/app/dq7dxe
 - [[Arbitrum]]
 - [[AVAXC]]
 - [[Cronos]]
-- [[Polygon]]
+- [[Polygon (PoS Sidechain)]]

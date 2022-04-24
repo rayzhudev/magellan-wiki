@@ -1,4 +1,7 @@
 #nft #trading #marketplace 
-- [[Opensea]]
-- [[Superrare]]
+- [[LooksRare]] 
 - [[NiftyGateway]]
+- [[Opensea]]
+- [[Rarible]]
+- [[Superrare]]
+- [[X2Y2]]
