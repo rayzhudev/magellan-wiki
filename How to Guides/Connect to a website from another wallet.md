@@ -1,0 +1,1 @@
+If you want to connect to a web3 website using any wallet address, you can do so using [[Impersonator]]. This will allow you to view what the owner of that address will be able to view. This is mainly for development purposes.
